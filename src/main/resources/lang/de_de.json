@@ -1,0 +1,23 @@
+{
+  "name": "deutsch",
+  "type": "de_de",
+  "noPermission": "§cDu hast nicht genügend Rechte um diesen Befehl auszuführen!",
+  "noPlayer": "§cDu musst ein Spieler sein um diesen Befehl auszuführen!",
+  "noOnlinePlayer": "§cDer Spieler §6!!0 §cist nicht auf dem Server!",
+  "noOfflinePlayer": "§cDer Spieler §6!!0 §ckonnte nicht gefunden werden!",
+  "syntax": "§cBitte benutze §6!!0§c!",
+  "typeError": "§cArgument §6!!0 §cmuss ein §6!!1 §csein!",
+  "notFound": "§c!!0 §6'!!1' §ckonnte nicht gefunden werden!",
+
+  "language.success": "§aDeine Sprache wurde erfolgreich auf §6'!!0' §agesetzt!",
+
+  "heal.successSelf": "§aDu hast dich selbst um §6!!0 herz(en) §ageheilt!",
+  "heal.successSelfFull": "§aDu hast dich selbst geheilt!",
+  "heal.successOther": "§aDu hast §6!!0 §aum §6!!1 herz(en) §ageheilt!",
+  "heal.successOtherFull": "§aDu hast §6!!0 §ageheilt!",
+
+  "fly.successSelfFly": "§aDu kannst jetzt fliegen!",
+  "fly.successSelf": "§aDu kannst nicht mehr fliegen!",
+  "fly.successOtherFly": "§6!!0 §akann jetzt fliegen!",
+  "fly.successOther": "§6!!0 §akann jetzt nicht mehr fliegen!"
+}
