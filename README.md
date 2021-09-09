@@ -1,7 +1,7 @@
 # Essentials
 Opensource essentials plugin made for learning purposes.
 
-Features:
+## Features:
 Multi language support<br>
 /heal [Player|health] \[health]<br>
 /fly [Player]<br>
