@@ -1,0 +1,12 @@
+name: Essentials
+version: '${project.version}'
+main: dev.kotw.essentials.Main
+api-version: 1.17
+authors: [ KekOnTheWorld ]
+description: Opensource essentials plugin made for learning purposes.
+website: https://kotw.dev/os
+
+commands:
+  heal:
+  language:
+  fly:
